@@ -16,7 +16,7 @@
     - block:
         - name: clone repo
           git:
-        #repo: https://github.com/linuxacademy/content-cje-pipelines.git
+            #repo: https://github.com/LawRider/content-cje-pipelines.git
             repo: https://github.com/moosakhalid/jenkins-la-course.git
             dest: /tmp/jenkins
 
